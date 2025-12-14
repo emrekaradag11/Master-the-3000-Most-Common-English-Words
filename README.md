@@ -12,7 +12,7 @@
 
 [Features](#-features) • [Languages](#-supported-languages) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
-![App Demo](intro.gif)
+<img src="intro.gif" alt="App Demo" width="300" />
 
 </div>
 
