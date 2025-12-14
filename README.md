@@ -12,6 +12,8 @@
 
 [Features](#-features) • [Languages](#-supported-languages) • [Installation](#-installation) • [Usage](#-usage) • [Contributing](#-contributing)
 
+![App Demo](intro.gif)
+
 </div>
 
 ---
